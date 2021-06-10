@@ -3,7 +3,8 @@
 
 # Лабораторная работа №6 Лисин РТ5-61Б
 
-
+import streamlit as st
+import seaborn as sns
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
